@@ -1,5 +1,5 @@
 # I used
-React, Redux
+React, Redux  
 react-app-polyfill => Also available in IE11
 
 # URL
